@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 32px;
+}
+p{
+    margin-bottom: 2em;
+}
+#gameboard{
+    border: 5px solid brown;
+}
